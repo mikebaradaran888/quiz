@@ -1,0 +1,56 @@
+﻿  {
+    "username": "mike",
+    "password": "password123",
+    "questions": [
+      {
+        "question": "<h1>Changed question!</h1> A clothes manufacturing business has decided to bypass \
+standard retail practices and sell direct to the end customer. \
+What is the term used for this type of business?",
+        "type": "radio",
+        "correctAnswer": [ 3 ],
+        "studentAnswer": [],
+        "options": [
+          "B2B",
+          "C2B",
+          "C2C",
+          "B2C"
+        ]
+      },
+      {
+        "question": "Which of the following are VALID deployment models for cloud services?<ol><li>Private cloud.</li><li>Hybrid cloud.</li><li>Public cloud.</li><li>Company cloud.</li></ol>",
+        "type": "radio",
+        "correctAnswer": [ 0 ],
+        "studentAnswer": [],
+        "options": [
+          "1, 2 and 3 only",
+          "3 and 4 only",
+          "1, 3 and 4 only",
+          "1 and 2 only"
+        ]
+      },
+      {
+        "question": "Which of the following is NOT a type of non-functional software testing?<br /><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/422px-Desktop_computer_clipart_-_Yellow_theme.svg.png' />",
+        "type": "radio",
+        "correctAnswer": [ 0 ],
+        "studentAnswer": [],
+        "options": [
+          "Static Test",
+          "Load Test",
+          "Security Test",
+          "Stress Test"
+        ]
+      },
+      {
+        "question": "Which one of these seasons are warmish?'",
+        "type": "checkbox",
+        "correctAnswer": [ 0, 1, 3 ],
+        "studentAnswer": [],
+        "options": [
+          "Summer",
+          "Autumn",
+          "Winter",
+          "Spring"
+        ]
+      }
+    ]
+  }

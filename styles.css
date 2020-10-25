@@ -1,0 +1,19 @@
+﻿img { width: 200px; }
+button { border-radius: 10px; }
+
+.radio-toolbar label {
+    display: block;
+    padding-left: 30px;
+    font-size: 16px;
+}
+
+.radio-toolbar input[type="radio"]:checked + label, 
+.radio-toolbar input[type="checkbox"]:checked + label {
+    font-weight: bold;
+}
+
+.radio-toolbar input[type="radio"], 
+.radio-toolbar input[type="checkbox"] {
+    position: fixed;
+}
+

@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>QA Exam</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts.js"></script>
+    <!--<script src="script2.js"></script>-->
+</head>
+
+<body onload='startTest()'>
+    <h1>Quiz</h1>
+    <div id="buttons">
+        <button onclick="nextQuestion(true)">Previous</button>
+        <button onclick="nextQuestion()">Next</button>
+    </div>
+    <div id="question" class="radio-toolbar"></div>
+    <div id="info"></div>
+    <span id="result" style="visibility:hidden"></span>
+</body>
+</html>

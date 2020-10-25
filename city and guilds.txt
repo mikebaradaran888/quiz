@@ -1,0 +1,150 @@
+﻿  {
+    "username": "mike",
+    "password": "password123",
+    "questions": [
+      {
+        "question": "The most important input into the 'analysis stage' is",
+        "type": "radio",
+        "correctAnswer": [ 0 ],
+        "studentAnswer": [],
+        "options": [
+          "customer requirements",
+          "development tools",
+          "required project roles",
+          "cost-benefit results"
+        ]
+      },
+{
+        "question": "What is the main purpose of using 'High Level' \ 
+design in application development?",
+        "type": "radio",
+        "correctAnswer": [ 3 ],
+        "studentAnswer": [],
+        "options": [
+          "To determine the communication processes between entities.",
+          "To ensure the requirements are achievable.",
+          "To determine the enhanced user experience.",
+          "To identify all issues associated with the system."
+        ]
+      },
+{
+        "question": "Which one of the following is viewed as a 'benefit' \
+when using prototyping as a development method?",
+        "type": "radio",
+        "correctAnswer": [ 3 ],
+        "studentAnswer": [],
+        "options": [
+          "The level of documentation is thorough.",
+          "The pace of development is fast.",
+          "A formal test strategy is implemented.",
+          "All non-functional requirements are implemented."
+        ]
+      },
+{
+        "question": "An important consideration when choosing a \
+suitable programming language can be the",
+        "type": "radio",
+        "correctAnswer": [ 3 ],
+        "studentAnswer": [],
+        "options": [
+          "end users' preference",
+          "developers' preference",
+          "clients’ non-functional requirements",
+          "testing of functional requirements."
+        ]
+      },
+{
+        "question": "What is the purpose of 'functional testing'?",
+        "type": "radio",
+        "correctAnswer": [ 3 ],
+        "studentAnswer": [],
+        "options": [
+          "Establish the ability of the system to perform under load.",
+          "Confirm the speed of system response.",
+          "Establish that the application runs on a specific operating system.",
+          "confirm the ability to perform intended tasks."
+        ]
+      },
+{
+        "question": "What is the main purpose of carrying out end to end testing?",
+        "type": "radio",
+        "correctAnswer": [ 3 ],
+        "studentAnswer": [],
+        "options": [
+   "To make sure that the database integrity is not compromised.",
+"To make sure all other tests have been completed.",
+"To validate the performance of the system under load.",
+"To confirm the functionality of the system as a whole."
+        ]
+      },
+{
+        "question": "",
+        "type": "radio",
+        "correctAnswer": [ 3 ],
+        "studentAnswer": [],
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+{
+        "question": "Which one of the following activities takes place during \
+the 'software deployment stage' of application development?",
+        "type": "radio",
+        "correctAnswer": [ 3 ],
+        "studentAnswer": [],
+        "options": [
+          "System tested with no failures.",
+          "Functionality validated by end users.",
+          "Implementation in a live environment.",
+          "Creation of high level design documentation."
+        ]
+      },
+{
+        "question": "What is the main purpose of raising faults with the development \ 
+team during the 'maintenance stage' of application development?",
+        "type": "radio",
+        "correctAnswer": [ 3 ],
+        "studentAnswer": [],
+        "options": [
+          "To allow the usability of the system to be measured.",
+          "To enable integration with bespoke software.",
+          "To ensure that platform specific skills are retained.",
+          "To identify critical issues affecting system availability."
+        ]
+      },
+{
+        "question": "Which one of the following statements \
+always applies to the 'maintenance stage' \
+in an application development lifecycle?
+",
+        "type": "radio",
+        "correctAnswer": [ 3 ],
+        "studentAnswer": [],
+        "options": [
+          "At the end of the stage, all faults will have been fixed.",
+          "This stage can last as long as possible.",
+          "During this stage, testing is no longer beneficial.",
+          "At the end of the stage, the product is no longer supported."
+        ]
+      },
+{
+        "question": "Which one of the following is an \
+organisational policy providing a \
+framework dictating the guidelines to be \
+followed by software development teams?",
+        "type": "radio",
+        "correctAnswer": [ 3 ],
+        "studentAnswer": [],
+        "options": [
+          "Formulation.",
+          "Regression.",
+          "Standardisation.",
+          "Examination."
+        ]
+      }
+    ]
+  }
+

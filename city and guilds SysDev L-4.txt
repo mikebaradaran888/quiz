@@ -1,0 +1,74 @@
+The most important input into the 'analysis stage' is
+a. customer requirements
+b. development tools
+c. required project roles
+d. cost-benefit results.
+
+What is the main purpose of using 'High Level' 
+design in application development?
+
+a. To determine the communication processes between entities.
+b. To ensure the requirements are achievable.
+c. To determine the enhanced user experience.
+d. To identify all issues associated with the system.
+
+Which one of the following is viewed as a 'benefit' 
+when using prototyping as a development method?
+a. The level of documentation is thorough.
+b. The pace of development is fast.
+c. A formal test strategy is implemented.
+d. All non-functional requirements are implemented.
+
+4 An important consideration when choosing a
+suitable programming language can be the
+a. end users’ preference
+b. developers' preference
+c. clients’ non-functional requirements
+d. testing of functional requirements.
+
+What is the purpose of 'functional testing'?
+a. Establish the ability of the system to perform under load.
+b. Confirm the speed of system response.
+c. Establish that the application runs on a specific operating system.
+d. Confirm the ability to perform intended tasks.
+
+What is the main purpose of carrying out end to end testing?
+a. To make sure that the database integrity is not compromised.
+b. To make sure all other tests have been completed.
+c. To validate the performance of the system under load.
+d. To confirm the functionality of the system as a whole.
+
+Which one of the following activities takes place during 
+the 'software deployment stage' of application development?
+a. System tested with no failures.
+b. Functionality validated by end users.
+c. Implementation in a live environment.
+d. Creation of high level design documentation.
+
+What is the main purpose of raising faults with the development 
+team during the 'maintenance stage' of application development?
+a. To allow the usability of the system to be measured.
+b. To enable integration with bespoke software.
+c. To ensure that platform specific skills are retained.
+d. To identify critical issues affecting system availability.
+
+Which one of the following statements
+always applies to the 'maintenance stage'
+in an application development lifecycle?
+
+a. At the end of the stage, all faults will have been fixed.
+b. This stage can last as long as possible.
+c. During this stage, testing is no longer beneficial.
+d. At the end of the stage, the product is no longer supported.
+
+Which one of the following is an
+organisational policy providing a
+framework dictating the guidelines to be
+followed by software development teams?
+a. Formulation.
+b. Regression.
+c. Standardisation.
+d. Examination.
+
+
+
